@@ -1,0 +1,6 @@
+Flask 
+request 
+jsonify
+requests
+os
+cv2
